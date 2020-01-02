@@ -1,0 +1,13 @@
+C:\Users\Kseniia\Desktop\cursova\CourseWork\BLL\bin\Debug\BLL.dll
+C:\Users\Kseniia\Desktop\cursova\CourseWork\BLL\bin\Debug\BLL.pdb
+C:\Users\Kseniia\Desktop\cursova\CourseWork\BLL\obj\Debug\BLL.dll
+C:\Users\Kseniia\Desktop\cursova\CourseWork\BLL\obj\Debug\BLL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\BLL\bin\Debug\BLL.dll
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\BLL\bin\Debug\BLL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\BLL\obj\Debug\BLL.dll
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\BLL\obj\Debug\BLL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\BLL\bin\Debug\BLL.dll.CodeAnalysisLog.xml
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\BLL\bin\Debug\BLL.dll.lastcodeanalysissucceeded
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\BLL\bin\Debug\DAL.dll
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\BLL\bin\Debug\DAL.pdb

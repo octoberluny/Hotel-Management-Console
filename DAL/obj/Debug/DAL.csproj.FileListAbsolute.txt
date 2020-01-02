@@ -1,0 +1,11 @@
+C:\Users\Kseniia\Desktop\cursova\CourseWork\DAL\bin\Debug\DAL.dll
+C:\Users\Kseniia\Desktop\cursova\CourseWork\DAL\bin\Debug\DAL.pdb
+C:\Users\Kseniia\Desktop\cursova\CourseWork\DAL\obj\Debug\DAL.dll
+C:\Users\Kseniia\Desktop\cursova\CourseWork\DAL\obj\Debug\DAL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\DAL\bin\Debug\DAL.dll
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\DAL\bin\Debug\DAL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\DAL\obj\Debug\DAL.dll
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\DAL\obj\Debug\DAL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\DAL\bin\Debug\DAL.dll.CodeAnalysisLog.xml
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\DAL\bin\Debug\DAL.dll.lastcodeanalysissucceeded

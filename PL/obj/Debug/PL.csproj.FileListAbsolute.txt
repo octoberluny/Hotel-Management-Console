@@ -1,0 +1,35 @@
+D:\Zheka\Documents\Visual Studio 2015\Projects\2 Курс\С#\CourseWork\PL\bin\Debug\PL.exe.config
+C:\Users\Kseniia\Desktop\cursova\CourseWork\PL\bin\Debug\PL.exe.config
+C:\Users\Kseniia\Desktop\cursova\CourseWork\PL\bin\Debug\PL.exe
+C:\Users\Kseniia\Desktop\cursova\CourseWork\PL\bin\Debug\PL.pdb
+C:\Users\Kseniia\Desktop\cursova\CourseWork\PL\bin\Debug\BLL.dll
+C:\Users\Kseniia\Desktop\cursova\CourseWork\PL\bin\Debug\DAL.dll
+C:\Users\Kseniia\Desktop\cursova\CourseWork\PL\obj\Debug\PL.exe
+C:\Users\Kseniia\Desktop\cursova\CourseWork\PL\obj\Debug\PL.pdb
+C:\Users\Kseniia\Desktop\cursova\CourseWork\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\Kseniia\Desktop\cursova\CourseWork\PL\bin\Debug\BLL.pdb
+C:\Users\Kseniia\Desktop\cursova\CourseWork\PL\bin\Debug\DAL.pdb
+C:\Users\Kseniia\Desktop\nau\ооп\cursova\CourseWork\PL\bin\Debug\PL.exe.config
+C:\Users\Kseniia\Desktop\nau\ооп\cursova\CourseWork\PL\obj\Debug\PL.exe
+C:\Users\Kseniia\Desktop\nau\ооп\cursova\CourseWork\PL\obj\Debug\PL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\PL\bin\Debug\PL.exe.config
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\PL\obj\Debug\PL.exe
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\PL\obj\Debug\PL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\PL\bin\Debug\PL.exe
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\PL\bin\Debug\PL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\PL\bin\Debug\BLL.dll
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\PL\bin\Debug\DAL.dll
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\PL\bin\Debug\BLL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\PL\bin\Debug\DAL.pdb
+C:\Users\Kseniia\Desktop\nau\cursova\CourseWork\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\bin\Debug\PL.exe.config
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\bin\Debug\PL.exe
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\bin\Debug\PL.pdb
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\bin\Debug\BLL.dll
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\bin\Debug\DAL.dll
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\bin\Debug\BLL.pdb
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\bin\Debug\DAL.pdb
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\obj\Debug\PL.exe
+C:\Users\tumah\OneDrive\Робочий стіл\CourseWork\PL\obj\Debug\PL.pdb
